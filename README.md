@@ -21,7 +21,7 @@ This project implements an automated book writing system using AI agents.
 BRIGHDATA_USERNAME="..."
 BRIGHDATA_PASSWORD="..."
 ```
-
+!
 **Setup Ollama**:
    ```bash
    # setup ollama on linux 
