@@ -3,7 +3,7 @@
 This project implements an automated book writing system using AI agents.
 - [Bright Data](https://brdta.com/dailydoseofds) is used to scrape YouTube videos.
 - CrewAI to build the Agentic workflow.
-- Google DeepMind's latest Gemma 3 as the LLM.!
+- Google DeepMind's latest Gemma 3 as the LLM.
 
 
 ---
